@@ -1,6 +1,6 @@
 Technologies used : JavaScript/Node.js/Express/EJStemplate/Bootstrap
 
-This application is like a daily journal where you can post anything you want in the "Compose" section and it will be shown on the "Home" page as an array of posts.
+This application is like a daily journal where you can post anything you want in the "Compose" section and it will be shown on the "Home" page as a list of posts.
 Example:
 
 
